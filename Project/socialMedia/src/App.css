@@ -1,0 +1,68 @@
+
+
+.app-container{
+  display: flex;
+  
+}
+
+.context{
+  width: 100%;
+}
+
+.sideBar{
+  height: 672px;
+}
+
+.mycard{
+  margin: 40px 20px;
+  
+}
+.card-body sup{
+  
+   font-size: 20px;
+   font-weight: 600;
+  background-color: rgb(48, 189, 194);
+  border-radius: 30%;
+  color: rgb(224, 74, 19);
+}
+.reaction{
+  width: 19rem;
+  position: relative;
+  left: 2rem;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.createCard{
+  width: 75%;
+  margin: 10px 0px 5px 20px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.text{
+  text-align: center;
+}
+
+.mypost{
+position: relative;
+left: 500px;
+}
+
+.mypost input{
+  width: 80%;
+}
+
+.mypost button{
+  margin-top: 10px;
+  padding: 30px;
+}
+
+.mypost button:hover{
+  background-color: green;
+}
+
+.spinner{
+  margin-top: 30px;
+}

@@ -1,0 +1,11 @@
+
+
+.display{
+    width: 200px;
+    height: 40px;
+    border: 1px solid black;
+    margin: 5px;
+    font-size: 25px;
+    position: relative;
+    left: 4px;
+}
